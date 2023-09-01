@@ -1,0 +1,21 @@
+@import url(./product__billion/product__billion.css);
+@import url(./product__box/product__box.css);
+@import url(./product__number/product__number.css);
+@import url(./product__percent/product__percent.css);
+@import url(./product__text/product__text.css);
+@import url(./product__title/product__title.css);
+@import url(./product__table/product__table.css);
+@import url(./product__graphics/product__graphics.css);
+@import url(./product__quantity/product__quantity.css);
+@import url(./product__pic/product__pic.css);
+@import url(./product__date/product__date.css);
+
+.product {
+  font-family: "Monsterrat", Arial, sans-serif;
+  width: 100%;
+  background-color: #f9f9f9;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 116px;
+}

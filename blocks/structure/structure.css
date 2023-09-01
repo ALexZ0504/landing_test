@@ -1,0 +1,12 @@
+@import url(./structure__title/structure__title.css);
+@import url(./structure__table/structure__table.css);
+@import url(./structure__frame/structure__frame.css);
+@import url(./structure__percent/structure__percent.css);
+@import url(./structure__text/structure__text.css);
+
+.structure {
+  width: 1100px;
+  display: flex;
+  flex-direction: column;
+  padding: 72px 0 96px;
+}

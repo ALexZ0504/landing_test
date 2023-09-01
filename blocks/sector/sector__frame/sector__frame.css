@@ -1,0 +1,12 @@
+@import url(./sector__frame_black/sector__frame_black.css);
+@import url(./sector__frame_orange/sector__frame_orange.css);
+
+.sector__frame {
+  border-radius: 20px;
+  width: 320px;
+  height: 163px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  padding: 0 40px 0;
+}

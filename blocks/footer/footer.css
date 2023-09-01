@@ -1,0 +1,16 @@
+@import url(./footer__contacts/footer__contacts.css);
+@import url(./footer__country/footer__country.css);
+@import url(./footer__item/footer__item.css);
+@import url(./footer__number/footer__number.css);
+@import url(./footer__table/footer__table.css);
+@import url(./footer__text/footer__text.css);
+
+.footer {
+  font-family: "Roboto", Arial, sans-serif;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: #323232;
+  color: white;
+}

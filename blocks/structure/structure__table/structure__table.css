@@ -1,0 +1,5 @@
+.structure__table {
+  display: flex;
+  height: 125px;
+  justify-content: space-between;
+}

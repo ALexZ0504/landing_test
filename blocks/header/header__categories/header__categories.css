@@ -1,0 +1,9 @@
+.header__categories {
+  font-family: "Montserrat", Arial, sans-serif;
+  width: 800px;
+  height: 24px;
+  margin: 46px 0 0;
+  font-size: 36px;
+  line-height: 24px;
+  text-align: left;
+}

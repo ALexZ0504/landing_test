@@ -1,0 +1,6 @@
+.product__box {
+  display: flex;
+  height: 68px;
+  width: 1100px;
+  padding-bottom: 43px;
+}

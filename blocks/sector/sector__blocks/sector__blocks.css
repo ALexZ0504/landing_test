@@ -1,0 +1,7 @@
+.sector__blocks {
+  display: flex;
+  width: 1100px;
+  height: 235px;
+  justify-content: space-evenly;
+  align-items: center;
+}

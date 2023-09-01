@@ -1,0 +1,10 @@
+@import url(./header__blocks/header__blocks.css);
+@import url(./header__categories/header__categories.css);
+@import url(./header__text/header__text.css);
+@import url(./header__title/header__title.css);
+
+.header {
+  background-color: #ffffff;
+  margin: 64px 0 0;
+  width: 1100px;
+}

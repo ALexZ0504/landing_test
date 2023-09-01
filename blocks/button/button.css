@@ -1,0 +1,19 @@
+@import url(./button_bold/button_bold.css);
+
+.button {
+  background-color: #ffffff;
+  height: 38px;
+  border-radius: 27px;
+  border: 1px solid #e8e8e8;
+  font-family: "Roboto", Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  display: flex;
+  align-items: center;
+}
+
+.button:active {
+  background-color: #ef5f31;
+  color: #ffffff;
+  font-size: 16px;
+}

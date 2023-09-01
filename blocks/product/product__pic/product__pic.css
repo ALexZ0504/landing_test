@@ -1,0 +1,8 @@
+@import url(./product__pic_box/product__pic_box.css);
+@import url(./product__pic_line/product__pic_line.css);
+
+.product__pic {
+  width: 100%;
+  height: 29px;
+  margin: 10px 0 5px;
+}

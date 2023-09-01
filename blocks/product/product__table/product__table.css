@@ -1,0 +1,6 @@
+.product__table {
+  width: 1100px;
+  height: 161.35px;
+  display: flex;
+  justify-content: space-between;
+}

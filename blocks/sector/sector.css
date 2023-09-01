@@ -1,0 +1,15 @@
+@import url(./sector__blocks/sector__blocks.css);
+@import url(./sector__img/sector__img.css);
+@import url(./sector__title/sector__title.css);
+@import url(./sector__frame/sector__frame.css);
+@import url(./sector__text/sector__text.css);
+@import url(./sector__percent/sector__percent.css);
+
+.sector {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 68px 0 134px;
+  background-color: #323232;
+}
